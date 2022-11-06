@@ -1,0 +1,48 @@
+# bootcampflutter
+# InfoQuiz3
+
+## Silahkan buat folder baru seperti pada pengerjaan tugas dengan nama "Quiz3" 
+## di dalam folder project Flutter Anda.
+
+## Masukkan folder screen dan file main.dart ke dalam folder tersebut
+
+## Import / panggil login.dart di main.dart pada root folder project agar bisa ditampilkan pada device/emulator Anda
+
+## Quiz kali ini terdiri dari 4 Soal
+
+## Penjelasan dan lokasi soal dapat dicari pada file LoginScreen.dart dan HomeScreen.dart 
+## dengan menggunakan fitur search "#Soal" atau "//?" tanpa petik (")
+
+
+
+## Berikut daftar soal pada Quiz kali ini
+
+<!-- //? #Soal No. 1 (15poin) -- LoginScreen.dart -- Function LoginScreen
+    //? Buatlah sebuah fungsi untuk berpindah halaman di button login apabila input password berupa sanbercode123  dan ditekan submit maka akan ke berpindah ke halaman HomeScreen.dart dan apabila salah akan menampilkan snackbar berupa "password yang anda masukan salah"
+
+<!-- //? #Soal No. 2 (15poin) -- LoginScreen.dart -- Function LoginScreen
+    //? Buatlah sebuah fungsi untuk mengirimkan params username apabila di input username Achmad Hilmy maka di halaman homescreen akan menampilakan achmad hilmy, dibagian paling atas atau nama user
+
+<!-- //? #Soal No. 3(15poin) -- HomeScreen.dart -- Function HomeScreen
+    //? Buatlah sebuah Layout berupa GridView(bebas menggunakan apa saja / gridview.builder, gridview.count dan lain lain) untuk menampilkan data yang ada pada model.dart menjadi sebuah tampilan etalase toko untuk isi silahkan disesuaikan akan widget yang digunakan intinya sama seperti di contoh.
+
+<!-- //? #Soal No. 4(15poin) -- HomeScreen.dart -- Function HomeScreen
+    //? Buatlah sebuah fungsi untuk menambah total harga merchant misal di pilih beli maka harga akan berubah sesuai harga yang telah di beli di tomboh beli.
+
+
+
+
+
+
+## Contoh hasil akhir dari aplikasi dapat dilihat pada link berikut (jenis file .gif):      
+## https://youtu.be/v8PQKV9XiTQ
+
+## Setelah selesai mengerjakan, push pekerjaan Anda ke repository gitlab masing-masing
+## Input link commit hasil pekerjaan Anda ke fitur Quiz, Bagian Essay di bawah pilihan ganda atau boleh di taruh di quiz 3 di member.jabarcodingcamp.com 
+
+## Kerjakan soal semampunya dengan baik dan jujur
+## Tidak perlu bertanya kepada trainer terkait soal, cukup dikerjakan sesuai pemahaman peserta
+## Peserta diperbolehkan untuk googling, namun tidak diperbolehkan untuk bertanya, berdiskusi, atau mencontek.
+## Selama quiz berlangsung, grup diskusi telegram akan dinonaktifkan (peserta tidak dapat mengirimkan pesan atau berdiskusi di grup)
+
+# Selamat mengerjakan
